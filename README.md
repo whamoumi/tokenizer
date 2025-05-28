@@ -68,7 +68,7 @@ npx hardhat run --network sepolia scripts/deploy.js
 
 - **Token Name**: MyToken42
 - **Symbol**: MTK42
-- **Owner**: The deployer's address
+- **Contract**: 0x35a12A36fcE62D1912f6C47E1bBf7C94aE5B01e8
 - **Initial Supply**: Defined at deployment (`cap`)
 
 ### Functions
